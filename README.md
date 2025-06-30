@@ -216,7 +216,6 @@ This project is for educational purposes only. Use responsibly and at your own r
 Developed by: **❤️ MD SAHADAT HOSSAIN ❤️**
 - 🚀 For custom automation solutions, freelance projects, or collaboration, contact me at: fiverprince34@gmail.com
 - 🌐 Portfolio: [developersahadat.vercel.app](https://developersahadat.vercel.app)
-- 💬 Connect on LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 
 ---
 

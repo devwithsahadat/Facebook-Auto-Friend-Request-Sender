@@ -213,13 +213,14 @@ This project is for educational purposes only. Use responsibly and at your own r
 
 ## 👨‍💻 Developer Promotion
 
-Developed by: **[❤️ MD SAHADAT HOSSAIN ❤️]**
+Developed by: **❤️ MD SAHADAT HOSSAIN ❤️**
 - 🚀 For custom automation solutions, freelance projects, or collaboration, contact me at: fiverprince34@gmail.com
-- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://developersahadat.vercel.app/))
+- 🌐 Portfolio: [developersahadat.vercel.app](https://developersahadat.vercel.app)
+- 💬 Connect on LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 
 ---
 
-## 🚧 Coming Soon
+# 🚧 Coming Soon Project
 
 Stay tuned for upcoming features and improvements:
 - ✅ Gender and location-based friend request filtering (with privacy and ethical considerations)

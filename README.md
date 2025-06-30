@@ -213,10 +213,9 @@ This project is for educational purposes only. Use responsibly and at your own r
 
 ## 👨‍💻 Developer Promotion
 
-Developed by: **[Your Name or Team Name]**
-- 🚀 For custom automation solutions, freelance projects, or collaboration, contact me at: your.email@example.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💬 Connect on LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+Developed by: **[❤️ MD SAHADAT HOSSAIN ❤️]**
+- 🚀 For custom automation solutions, freelance projects, or collaboration, contact me at: fiverprince34@gmail.com
+- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://developersahadat.vercel.app/))
 
 ---
 
